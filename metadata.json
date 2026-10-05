@@ -1,0 +1,6 @@
+{
+  "name": "CipherTeam",
+  "description": "An end-to-end encrypted messaging application for professional teams featuring real on-device hybrid cryptography, security vault audits, and secure Gemini-powered teammate simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
